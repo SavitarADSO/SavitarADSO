@@ -42,6 +42,12 @@ I'm a **full-stack developer** with expertise in **Laravel (PHP)**, **Java (Andr
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavitarADSO&theme=dark&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SavitarADSO&theme=dark&show_icons=true&count_private=true)
+
+
 ## 📫 Contact Me
 I'm open to connecting and collaborating. You can reach out via email, phone, or LinkedIn.
 
