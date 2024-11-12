@@ -45,9 +45,6 @@ I'm a **full-stack developer** with expertise in **Laravel (PHP)**, **Java (Andr
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavitarADSO&theme=dark&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SavitarADSO&theme=dark&show_icons=true&count_private=true)
-
-
 ## 📫 Contact Me
 I'm open to connecting and collaborating. You can reach out via email, phone, or LinkedIn.
 
