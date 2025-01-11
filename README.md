@@ -3,7 +3,7 @@
 I'm a **full-stack developer** with expertise in **Laravel (PHP)**, **Java (Android Studio, Spring Boot)**, and **Angular (TypeScript)**, driven by a passion for crafting innovative, high-quality solutions. Outside of coding, I enjoy sports and movies, maintaining a balance that enhances both my discipline and creativity. I’m committed to delivering excellence in every task, from the simplest to the most complex. Feel free to explore my projects — I hope you find them as exciting as I did while building them!
 
 ## 🔭 Current Work
-- Developing various projects with **Laravel**, **Android Studio**, and **Angular**.
+- Developing various projects with **Laravel**, **Vue.js**, **Android Studio**, and **Angular**.
   
 ## 🌱 Learning & Growing
 - Enhancing skills in **mobile development** with **Flutter**.
